@@ -621,8 +621,10 @@ span {
   }
 
   .home-img {
-    width: auto;
-    height: auto;
+    /* width: auto; */
+    width: 100vw;
+    height: 50vh;
+    margin-bottom: 10vh;
   }
 
   .contact form .input-card input {
