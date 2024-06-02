@@ -61,13 +61,13 @@ section {
   justify-content: center;
   align-items: center;
   gap: 10px;
-  border: 1px solid rgb(78, 44, 44);
+  /* border: 1px solid rgb(78, 44, 44); */
 }
 
 .home-container {
   width: 50vw;
   height: 70vh;
-  border: 1px solid white;
+  /* border: 1px solid white; */
 }
 
 .home-container h3 {
@@ -94,13 +94,13 @@ section {
   margin-bottom: 10vh;
   width: 50vw;
   height: 80vh;
-  border: 1px solid white;
+  /* border: 1px solid white; */
 }
 
 .home-img img {
   width: 75%;
   height: 97%;
-  border: 1px solid rgb(235, 25, 25);
+  /* border: 1px solid rgb(235, 25, 25); */
 }
 
 
