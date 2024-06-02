@@ -527,12 +527,6 @@ span {
     display: block;
   }
 
-  body {
-    width: 90vw;
-    height: 100vh;
-    overflow: hidden;
-  }
-
   section {
     min-height: 100vh;
     padding: 10rem 9% 2rem;
